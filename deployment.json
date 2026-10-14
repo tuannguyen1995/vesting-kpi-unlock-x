@@ -2,19 +2,19 @@
   "network": "studionet",
   "chainId": 61999,
   "rpcUrl": "https://studio.genlayer.com/api",
-  "contractAddress": "0xA913BB06AAc17Ae6322892E573d662b37bc7ddEd",
+  "contractAddress": "0xb3243A58ef358E4AC87651eA6D99819ce307995f",
   "transactionHash": "0x7911bd42af945d1a859ae2689004a23c35564f5105f4793ab887f4685606ecbf",
   "deployerAddress": "0x0299Fe02B2a392680A79D032D6882317C6F0Df4A",
   "status": "5",
   "receipt": {
     "hash": "0x7911bd42af945d1a859ae2689004a23c35564f5105f4793ab887f4685606ecbf",
     "from_address": "0x0299Fe02B2a392680A79D032D6882317C6F0Df4A",
-    "to_address": "0xA913BB06AAc17Ae6322892E573d662b37bc7ddEd",
+    "to_address": "0xb3243A58ef358E4AC87651eA6D99819ce307995f",
     "data": {
       "calldata": {
         "readable": "{}"
       },
-      "contract_address": "0xA913BB06AAc17Ae6322892E573d662b37bc7ddEd"
+      "contract_address": "0xb3243A58ef358E4AC87651eA6D99819ce307995f"
     },
     "value": 0,
     "type": 1,
@@ -1201,7 +1201,7 @@
     },
     "value_credited": false,
     "sender": "0x0299Fe02B2a392680A79D032D6882317C6F0Df4A",
-    "recipient": "0xA913BB06AAc17Ae6322892E573d662b37bc7ddEd",
+    "recipient": "0xb3243A58ef358E4AC87651eA6D99819ce307995f",
     "tx_id": "0x7911bd42af945d1a859ae2689004a23c35564f5105f4793ab887f4685606ecbf",
     "activator": "0xacc2459F341D7a887bcA8FAA62F1EC9378d4Bc67",
     "last_leader": "0xacc2459F341D7a887bcA8FAA62F1EC9378d4Bc67",

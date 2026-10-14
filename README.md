@@ -12,7 +12,7 @@
 
 The **VestingKPIUnlockX** Intelligent Contract is deployed, finalized, and verified on GenLayer **studionet**:
 
-- **CONTRACT_ADDRESS:** `0xA913BB06AAc17Ae6322892E573d662b37bc7ddEd`
+- **CONTRACT_ADDRESS:** `0xb3243A58ef358E4AC87651eA6D99819ce307995f`
 - **TRANSACTION_HASH:** `0x7911bd42af945d1a859ae2689004a23c35564f5105f4793ab887f4685606ecbf`
 - **DEPLOYER_ADDRESS:** `0x0299Fe02B2a392680A79D032D6882317C6F0Df4A`
 - **NETWORK:** `studionet` (Chain ID: `61999` / `0xF1EF`)
@@ -171,6 +171,6 @@ python scripts/deploy_studionet.py
 ### 4. Interacting on GenLayer Studio
 1. Open [GenLayer Studio](https://studio.genlayer.com).
 2. Connect your wallet to **studionet** (Chain ID: `61999`).
-3. Load the deployed contract address: `0xA913BB06AAc17Ae6322892E573d662b37bc7ddEd`.
+3. Load the deployed contract address: `0xb3243A58ef358E4AC87651eA6D99819ce307995f`.
 4. Call `create_vesting_schedule` with allocation deposit, beneficiary address, KPI criteria, and canonical metrics URL.
 5. Trigger `evaluate_and_unlock_kpi` to execute autonomous consensus and unlock funds!
